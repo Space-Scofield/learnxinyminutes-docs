@@ -45,7 +45,7 @@ not False -- True
 1 < 10 -- True
 
 -- En los ejemplos superiores, `not` es una función que toma un valor.
--- Haskell no necesita paréntisis para las llamadas a funciones...todos los argumentos
+-- Haskell no necesita paréntesis para las llamadas a funciones...todos los argumentos
 -- son enlistados después de la función. Entonces el patrón general es:
 -- func arg1 arg2 arg3...
 -- Observa la sección de funciones para obtener información de como escribir tu propia función.
